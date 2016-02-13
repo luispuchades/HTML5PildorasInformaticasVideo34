@@ -2,8 +2,8 @@
 /*jslint browser: true, for:true */
 
 /**JavaScript Document
- * Curso: HMTL5 - Pildoras Informáticas - API CANVAS IX
- * Origin: Video33.html ==> Transformaciones II
+ * Curso: HMTL5 - Píldoras Informáticas - API CANVAS IX
+ * Origin: Video34.html ==> Transformaciones II
  */
 
 // "use strict";

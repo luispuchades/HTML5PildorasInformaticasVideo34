@@ -3,7 +3,7 @@
 
 /**JavaScript Document
  * Curso: HMTL5 - Pildoras Informáticas - API CANVAS IX
- * Origin: Video33.html ==> Transformaciones II
+ * Origin: Video34.html ==> Transformaciones II
  */
 
 // "use strict";
